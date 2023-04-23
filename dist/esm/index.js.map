@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../src/components/Checkbox/Checkbox.tsx"],"sourcesContent":[null],"names":["Checkbox","_a","id","checked","onChange","React","createElement","type"],"mappings":"qBAOM,IAAAA,EAAoC,SAACC,GAAE,IAAAC,OAAIC,EAAOF,EAAAE,QAAEC,EAAQH,EAAAG,SAChE,OACEC,EAAOC,cAAA,QAAA,CAAAC,KAAK,WAAWL,GAAIA,EAAIE,SAAUA,EAAUD,QAASA,GAEhE"}
